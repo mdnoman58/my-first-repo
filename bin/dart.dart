@@ -1,5 +1,4 @@
 void main(){
-
   String age='12';
   String index='12123';
   String result;
@@ -7,13 +6,10 @@ void main(){
   result=age+index;//this is how we get the length of string
   print(age.length);
   print(index.length);//this is how we get the any value of inside the string
-  print(age[1]);
-  print(result);
-  print(name.split(''));
-  print(name.replaceAll(name,'abc'));
+
+
+
 
 }
-
-
 
 
